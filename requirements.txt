@@ -1,0 +1,7 @@
+moabb==0.4.6
+mne==1.1.0
+scikit-learn==1.1.2
+torch==1.13.0
+xgboost==1.7.1
+scipy==1.9.1
+numpy==1.22.4
