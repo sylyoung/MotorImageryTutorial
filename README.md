@@ -6,4 +6,11 @@ For those who are interested in deep learning TL approaches, refer to [`sylyoung
 
 Currently, EA, CSP, LDA, EEGNet are implemented, in cross-subject unsupervised transfer.
 
+#### Download Datasets
+
+To download datasets, run   
+```sh 
+sh prepare_data.sh
+```   
+
 For any questions, please email lsyyoungll@gmail.com or syoungli@hust.edu.cn
